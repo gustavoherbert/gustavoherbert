@@ -5,12 +5,6 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-<!--snake -->
-    <div align="center">
-  <a href="https://github.com/1999AZZAR/1999AZZAR">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
 
 
 <!-- Presentation -->
