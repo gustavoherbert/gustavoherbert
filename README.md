@@ -7,15 +7,18 @@
 </div>
 <!--snake -->
     <div align="center">
-      <img src="hhtps://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-        alt= "snake" /></a>
-    </div>
+  <a href="https://github.com/1999AZZAR/1999AZZAR">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  </a>
+</div>
+
+
 <!-- Presentation -->
 <p>
   👋 Hi, I'm Gustavo! A passionate student of Systems Analysis and Development from Brazil.
 
-  - 🌱 I am currently studying Systems Analysis and Development at uninassau <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  - 🌱 I am currently studying Systems Analysis and Development at uninassau.
+    
   - 🔭 I'm looking for my first job opportunity. My dream is to one day create projects that will improve people's quality of life.
 </p>
 
@@ -36,12 +39,8 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoherbert&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoherbert&show_icons=true&theme=transparent)](https://github.com/gustavoherbert/github-readme-stats)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+<br>
+<br>
 
 <!-- GIF -->
 <p align="left">
